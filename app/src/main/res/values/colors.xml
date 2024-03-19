@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_primary">#102030</color>
+    <color name="md_theme_primaryVariant">#253D56</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+
+    <color name="blueish_gray_dark">#445C75</color>
+    <color name="blueish_gray_light">#82939d</color>
+
+</resources>
