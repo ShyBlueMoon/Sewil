@@ -12,12 +12,23 @@ class AgendamentoAtividadesFragment : Fragment() {
 
     private lateinit var binding: FragmentAgendamentoAtividadesBinding
 
+
+
+
+
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
+
+
     ): View? {
         binding = FragmentAgendamentoAtividadesBinding.inflate(inflater, container, false)
         return binding.root
+
     }
+
+
+
 
 }
